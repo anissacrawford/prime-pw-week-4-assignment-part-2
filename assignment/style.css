@@ -1,0 +1,21 @@
+header {
+  background-color: #76BA1B;
+}
+
+div.info {
+  color: #21430C;
+  background-color: #4C9A2A;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  color: #21430C;
+  background-color: #007F00;
+  text-align: center;
+}
